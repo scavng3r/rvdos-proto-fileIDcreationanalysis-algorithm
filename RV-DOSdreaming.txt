@@ -62,5 +62,7 @@ identify.marker"exampletest1001"= file*.*
 
 hence the research verifiable part
 
-verification through identify.marker creation which only creates a log of human readable error and puke.
-no matter execution environment.
+!!! file verification through identify.marker creation which only creates a log of human readable error and puke.
+no matter execution environment.!!!
+
+@reachoutforbits on fb
