@@ -21,7 +21,7 @@ all rvdosdump does is create a simple file in SIMPLE TO READ format. advanced us
 
 Simply change the rvdos file to text and read.
 
-Identify.marker contains alot more system puke than n00b list output
+Id.mark contains alot more system puke than n00b list output
 
 rvdosdump will contain sys info and various markers including extension and file size and color content by "samplesip"
 sample sip is experimental - basically samplesip is the equivilant of a paint color catcher
