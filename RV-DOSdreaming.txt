@@ -39,15 +39,15 @@ which translates to
 
 makenotice!<file*.*>makenotice?
 
-each makenotice creates an identity.marker regardless of activity
+each makenotice creates an identify.marker regardless of activity
 so
 
-unknown$info=identity.marker"exampletest1001"
+unknown$info=identify.marker"exampletest1001"
 
 when viewed a reinforcingverification-RV is executed and the file notices itself by experimental nodouble* rule on 1\repeatonly
 
 so basically re-verification by this route  ((file*)*scan256 makenotice!<file*.*>makenotice? = unknown$info = 
-identity.marker"exampletest1001"= file*.*
+identify.marker"exampletest1001"= file*.*
 
 
 \\1\repeatonly\nodouble* if execute double notice only identity marker recieves error for multiple execution in RV-DOS environment.
@@ -55,5 +55,5 @@ identity.marker"exampletest1001"= file*.*
 
 hence the research verifiable part
 
-verification through identity.marker creation which only creates a log of human readable error and puke.
+verification through identify.marker creation which only creates a log of human readable error and puke.
 no matter execution environment.
