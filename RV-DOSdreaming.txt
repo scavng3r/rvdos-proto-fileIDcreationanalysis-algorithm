@@ -2,7 +2,7 @@
 
 please note one must have anytype of      file*.*
 
-///possible to produce output by .rvdos extension adding? and then removal for non file tampering??
+///possible to produce output by .rvdos extension adding? and then removal for non file tampering?? and possiblity for portable thru usb or sd?   know issues include blutooth transfer of a .rvdoss extensioned file to lg g7 one
 
 command ((file*)*.scan256) makenotice!<>makenotice?
 
