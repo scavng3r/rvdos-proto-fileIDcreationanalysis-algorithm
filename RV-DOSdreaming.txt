@@ -28,7 +28,7 @@ so
 
 unknown$info=identity.marker"exampletest1001"
 
-when viewed a reinforcingverification-RV is executed and the file notices itself.
+when viewed a reinforcingverification-RV is executed and the file notices itself by experimental nodouble* rule on 1\repeatonly
 
 so basically re-verification by this route  ((file*)*scan256 = unknown$info = identity.marker"exampletest1001"= file*.*
 
