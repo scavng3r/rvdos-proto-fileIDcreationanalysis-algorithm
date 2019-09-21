@@ -1,10 +1,14 @@
-I am a file*
+//start
 
-command ((file)*scan256) makenotice!
+please note one must have anytype of      file*.*
 
-file*=makenotice! unless makenotice?
+///possible to produce output by .rvdos extension adding? and then removal for non file tampering??
 
-file*=makenotice? is way of identify.marker creation for unknown$info
+command ((file*)*.scan256) makenotice!
+
+file*.*=makenotice! unless makenotice?
+
+file*.*=makenotice? is way of identify.marker creation for unknown$info
 
 command ((file)scan256) comes from system by execution not obeservation
 yet Identity.marker is human readable and when viewed
