@@ -12,6 +12,12 @@ file*.*=makenotice! unless makenotice?
 
 file*.*=makenotice? is way of identify.marker creation for unknown$info
 
+process of id creation is is filescan=unknown$info=id.mark\1\repeatonly\nodouble*dumprvdos
+tada
+file id created and rv'd!
+
+
+
 command ((file*)*scan256) comes from system by execution not obeservation
 yet Identity.marker is human readable and when viewed
 file*.*   
