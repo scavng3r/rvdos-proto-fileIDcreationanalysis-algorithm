@@ -17,7 +17,7 @@ tada
 file id created and rv'd!
 
 rvdosdump is an experimental feature and must not be considered in future releases unless specifically stated it is included
-all rvdosdum does is created a simple file in SIMPLE TO READ format. advanced users need not use rvdosdump ending
+all rvdosdump does is create a simple file in SIMPLE TO READ format. advanced users need not use rvdosdump ending
 
 Simply change the rvdos file to text and read.
 
