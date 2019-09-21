@@ -10,16 +10,27 @@ file*.*=makenotice! unless makenotice?
 
 file*.*=makenotice? is way of identify.marker creation for unknown$info
 
-command ((file)scan256) comes from system by execution not obeservation
+command ((file*)*scan256) comes from system by execution not obeservation
 yet Identity.marker is human readable and when viewed
-I am file*    //* is the systems queue to intervene unless a hang up is wanted
-command ((file)scan256)
+file*.*   
+
+//*.* is the systems queue to intervene unless a hang up is wanted  note the periods are replaced by a ) when executing command
+
+so...
+
+command ((file*)*scan256)
 which translates to
 
-makenotice! or makenotice?
+makenotice!<>makenotice?
 
-each makenotice creates an identity marker regardless of activity
-when viewed a reinforcingverification-RV is executed an the file notices itself.
+each makenotice creates an identity.marker regardless of activity
+so
+
+unknown$info=identity.marker"exampletest1001"
+
+when viewed a reinforcingverification-RV is executed and the file notices itself.
+
+so basically re-verification by this route  unknown$info = identity.marker"exampletest1001"= file*.*
 
 \\1\repeatonly\nodouble* if execute double notice only identity marker recieves error for multiple execution in RV-DOS environment.
 
