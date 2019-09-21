@@ -30,7 +30,9 @@ unknown$info=identity.marker"exampletest1001"
 
 when viewed a reinforcingverification-RV is executed and the file notices itself by experimental nodouble* rule on 1\repeatonly
 
-so basically re-verification by this route  ((file*)*scan256 = unknown$info = identity.marker"exampletest1001"= file*.*
+so basically re-verification by this route  ((file*)*scan256 makenotice!<file*.*>makenotice? = unknown$info = 
+identity.marker"exampletest1001"= file*.*
+
 
 \\1\repeatonly\nodouble* if execute double notice only identity marker recieves error for multiple execution in RV-DOS environment.
 (EXPERIEMENTAL)
