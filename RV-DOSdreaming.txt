@@ -16,7 +16,10 @@ process of id creation is is filescan=unknown$info=id.mark\1\repeatonly\nodouble
 tada
 file id created and rv'd!
 
-
+rvdosdump is an experimental feature and must not be considered in futre releases unless specifically stated it is included
+rvdosdump will contain sys info and various markers including extension and file size and color content by "samplesip"
+sample sip is experimental - basically samplesip is the equivilant of a paint color catcher
+so ROYGBIV spectrum or black and while or greyscale or snapchat filter yada yada blah blah
 
 command ((file*)*scan256) comes from system by execution not obeservation
 yet Identity.marker is human readable and when viewed
