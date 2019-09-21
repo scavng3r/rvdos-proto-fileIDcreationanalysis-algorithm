@@ -28,7 +28,9 @@ sample sip is experimental - basically samplesip is the equivilant of a paint co
 so ROYGBIV spectrum or black and while or greyscale or snapchat filter yada yada blah blah
 
 command ((file*)*scan256) comes from system by execution not obeservation
-yet Identity.marker is human readable and when viewed
+yet Identity.marker is human readable and when viewed id.mark*update occurs and sample is added stating that this document had been rv'd this many times
+
+
 file*.*   
 
 //*.* is the systems queue to intervene unless a hang up is wanted in whic case it may be possible to queue multiple files for scanning 
